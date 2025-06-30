@@ -258,6 +258,8 @@ h1 {
   border: solid 1px #003067;
   border-top-left-radius: 1.3rem;
   border-top-right-radius: 1.3rem;
+  max-width: 1410px;
+  margin: 0 auto;
 }
 .subtitle {
   width: 100%;
@@ -366,6 +368,7 @@ h1 {
   flex-direction: column;
   overflow-y: auto;
   margin: 0 auto;
+  max-width: 1300px;
 }
 
 .accordion-item {
