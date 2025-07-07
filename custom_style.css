@@ -319,6 +319,10 @@ h1 {
   width: 100%;
 }
 
+.pre_text{
+  margin: 0, auto;
+  padding: 1rem;
+}
 .separator_image {
   width: 100%;
   overflow: hidden;
